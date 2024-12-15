@@ -19,3 +19,7 @@ Un API básico de citas random creado con Node.js y Express
 - `GET /citas/random`: Obtener una cita random.
 - `POST /citas`: Crear una nueva cita.
 - `PUT /citas/:id`: Actualizar una cita existente.
+
+## Licencia
+
+Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
