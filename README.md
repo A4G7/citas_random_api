@@ -10,8 +10,7 @@ Un API básico de citas random creado con Node.js y Express
 
 1. Clona el repositorio.
 2. Ejecuta `npm install` para instalar las dependencias.
-3. Configura tu base de datos.
-4. Ejecuta `npm start` para poner en marcha el servidor.
+3. Ejecuta `npm start` para poner en marcha el servidor.
 
 ## Endpoints
 
