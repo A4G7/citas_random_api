@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cita": "La vida es bella.",
+    "autor": "Anónimo"
+  },
+  {
+    "id": 2,
+    "cita": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "autor": "Robert Collier"
+  },
+  {
+    "id": 3,
+    "cita": "Haz de tu vida un sueño, y de tu sueño una realidad.",
+    "autor": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": 4,
+    "cita": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali"
+  },
+  {
+    "id": 5,
+    "cita": "El único modo de hacer un gran trabajo es amar lo que haces.",
+    "autor": "Steve Jobs"
+  },
+  {
+    "id": 6,
+    "cita": "La mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos.",
+    "autor": "Confucio"
+  },
+  {
+    "id": 7,
+    "cita": "Cree en ti mismo y en lo que eres. Sé consciente de que hay algo dentro de ti que es más grande que cualquier obstáculo.",
+    "autor": "Christian D. Larson"
+  },
+  {
+    "id": 8,
+    "cita": "La felicidad no es algo hecho. Proviene de tus propias acciones.",
+    "autor": "Dalai Lama"
+  },
+  {
+    "id": 9,
+    "cita": "El fracaso es una gran oportunidad para empezar otra vez con más inteligencia.",
+    "autor": "Henry Ford"
+  },
+  {
+    "id": 10,
+    "cita": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt"
+  }
+]
